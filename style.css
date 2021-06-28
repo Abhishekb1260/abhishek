@@ -38,7 +38,7 @@ h2 {
 
 .days , .hours , .min , .sec {
     font-size : 2rem;
-    background-color: lightgray;
+    background-color: #D3D3D3;
     border-radius : 8px;
     width : 120%;
 }
