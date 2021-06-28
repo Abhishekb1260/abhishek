@@ -38,4 +38,8 @@ h2 {
 
 .days , .hours , .min , .sec {
     font-size : 2rem;
+    background-color: lightgray;
+    border-radius : 8px;
+    width : 120%;
+}
 }
