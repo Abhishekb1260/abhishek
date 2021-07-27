@@ -1,5 +1,5 @@
 const countdown = () => {
-    const CountDate = new Date('September 01 , 2021 00:00:00').getTime();
+    const CountDate = new Date('December 01 , 2021 00:00:00').getTime();
     const now = new Date().getTime();
     const gap = CountDate - now;
     const second = 1000;
